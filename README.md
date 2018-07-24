@@ -39,7 +39,7 @@ Approximate *baseline* [setup](https://github.com/endernewton/tf-faster-rcnn/blo
   - For approximate [FPN](https://arxiv.org/abs/1612.03144) baseline setup we simply resize the image with 800 pixels, add 32^2 anchors, and take 1000 proposals during testing.
   - Check out [here](http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/)/[here](http://xinlei.sp.cs.cmu.edu/xinleic/tf-faster-rcnn/)/[here](https://drive.google.com/open?id=0B1_fAEgxdnvJSmF3YUlZcHFqWTQ) for the latest models, including longer COCO VGG16 models and Resnet ones.
   
-![](data/imgs/gt.png)      |  ![](data/imgs/pred.png)
+![](https://github.com/endernewton/tf-faster-rcnn/blob/master/data/imgs/gt.png)      |  ![](https://github.com/endernewton/tf-faster-rcnn/blob/master/data/imgs/pred.png)
 :-------------------------:|:-------------------------:
 Displayed Ground Truth on Tensorboard |  Displayed Predictions on Tensorboard
 
